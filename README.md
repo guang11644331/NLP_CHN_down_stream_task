@@ -1,5 +1,5 @@
 ## NLP_Chinese_down_stream_task
-NLP子任务，供学习参考
+自学的NLP子任务，供学习参考
 
 ### 任务1 ：短文本分类  
 #### (1).数据集：THUCNews中文文本数据集(10分类)  
