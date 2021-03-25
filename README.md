@@ -9,5 +9,5 @@
 ![](https://github.com/guang11644331/NLP_CHN_down_stream_task/blob/master/image/bert_res.png)  
   
 ### 任务2：命名体识别(NER: BiLSTM+CRF)
-数据集：china-people-daily-ner-corpus（中国人民日报）  
-![]()
+数据集：china-people-daily-ner-corpus（中国人民日报数据集）  
+![](https://github.com/guang11644331/NLP_CHN_down_stream_task/blob/master/image/ner_data.png)
