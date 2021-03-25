@@ -16,7 +16,8 @@ ___
 使用模型：BiLSTM+CRF  
   
 ![](https://github.com/guang11644331/NLP_CHN_down_stream_task/blob/master/image/ner_data.png)  
-输入时使用了中文Wikipedia训练好的100维词向量，运行main.py即可。  
+  
+使用了中文Wikipedia训练好的100维词向量，运行main.py即可。  
 #### 训练结果:  
   
   ![](https://github.com/guang11644331/NLP_CHN_down_stream_task/blob/master/image/ner_1.png)  
@@ -24,5 +25,6 @@ ___
   
 ![](https://github.com/guang11644331/NLP_CHN_down_stream_task/blob/master/image/ner_2.png)  
   
+___  
 ### 任务3：文本匹配（语义相似度，Semantic Textual Similarity）  
 **TODO**
