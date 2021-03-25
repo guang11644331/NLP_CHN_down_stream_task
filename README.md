@@ -3,6 +3,9 @@
 
 ### 任务1 ：短文本分类  
 #### (1).数据集：THUCNews中文文本数据集  
+  
+![](https://github.com/guang11644331/NLP_Chinese_down_stream_task/blob/master/image/cls_data.png)  
+
 #### (2).模型：BERT+BiLSTM，Pytorch实现  
 #### (3).使用方法：    
 预训练模型使用的是中文**BERT-WWM**, 下载地址(https://github.com/ymcui/Chinese-BERT-wwm), 下载解压后放入[**bert_pretrain**]文件夹下，运行“main.py”即可  
@@ -13,6 +16,9 @@
 ___
 ### 任务2：命名体识别(NER)  
 #### (1).数据集：china-people-daily-ner-corpus（中国人民日报数据集）, Tensorflow_cpu >= 2.1  
+  
+![](https://github.com/guang11644331/NLP_Chinese_down_stream_task/blob/master/image/ner_data1.png)  
+
 #### (2).模型：BiLSTM+CRF  
   
 ![](https://github.com/guang11644331/NLP_CHN_down_stream_task/blob/master/image/ner_data.png)  
