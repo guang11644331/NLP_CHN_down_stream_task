@@ -1,7 +1,7 @@
 ## NLP_Chinese_down_stream_task
 自学的NLP子任务，供学习参考
 
-### 任务1 ：短文本分类  
+## 任务1 ：短文本分类  
 **(1).数据集**：THUCNews中文文本数据集(10分类)  
   
 ![](https://github.com/guang11644331/NLP_Chinese_down_stream_task/blob/master/image/cls_dataset.png)  
@@ -14,7 +14,7 @@
 ![](https://github.com/guang11644331/NLP_Chinese_down_stream_task/blob/master/image/bert_res2.png)  
   
 ___
-### 任务2：命名体识别(NER)  
+## 任务2：命名体识别(NER)  
 **(1).数据集**：china-people-daily-ner-corpus（中国人民日报数据集） 
   
 ![](https://github.com/guang11644331/NLP_Chinese_down_stream_task/blob/master/image/ner_data1.png)  
@@ -32,7 +32,7 @@ ___
 ![](https://github.com/guang11644331/NLP_CHN_down_stream_task/blob/master/image/ner_2.png)  
   
 ___  
-### 任务3：文本匹配（语义相似度，Semantic Textual Similarity）  
+## 任务3：文本匹配（语义相似度，Semantic Textual Similarity）  
 **(1).数据集**：fake-news-pair-classification-challenge(kaggle虚假新闻标题分类竞赛，标签有三种关系：'unrelated', 'agreed', 'disagreed')  
   
 ![](https://github.com/guang11644331/NLP_Chinese_down_stream_task/blob/master/image/semantic_data.png)  
